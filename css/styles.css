@@ -1,0 +1,16 @@
+body {
+  background-color: lightcyan;
+}
+hr{
+  
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 5px;
+  width: 9%;
+}
+h1 {
+  color: aqua;  
+}
+h3{
+    color: aqua;
+}
